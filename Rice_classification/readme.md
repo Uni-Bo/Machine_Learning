@@ -9,6 +9,7 @@ I utilized the Kaggle API to download a comprehensive rice image dataset contain
 ## 2. Data Exploration and Visualization:
 
 I examined the distribution of images in each category, specifically Arborio and Basmati. To gain visual insights, I employed matplotlib to display sample images from different rice varieties.
+![visual](https://github.com/Uni-Bo/Machine_Learning/blob/main/Rice_classification/img/classification.png)
 
 ## 3. Data Preprocessing:
 
